@@ -1,2 +1,2 @@
-# Disease-Prediction-Using-Machine-Learning-A-Data-Driven-Approach
-This project predicts diseases based on user-reported symptoms using machine learning. It provides diagnosis along with precautions, diet plans, and doctor suggestions for better health guidance.
+# Sympto-scan
+It is a disease prediction system based on symptoms that will take symptoms as a input and predict a diseases using machine learnning algorithm.
